@@ -26,3 +26,7 @@
 ## Характеристика
 
 :green_book: [Перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Характеристика%20Степанова.pdf)
+
+### Задание
+
+### Отчет
