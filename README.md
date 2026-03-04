@@ -27,6 +27,10 @@
 
 :green_book: [Перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Характеристика%20Степанова.pdf)
 
-### Задание
+## Задание
 
-### Отчет
+:ledger:  [Перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Степанова%20АА%20задание%203%20курс.pdf)
+
+## Отчет
+
+:ledger:  [Перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Степанова%20АА%20задание%203%20курс.pdf)
