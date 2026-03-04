@@ -12,16 +12,16 @@
 ## Задания 
 1. Изучить складскую систему на базе «1С:Управление торговлей» и разработать руководство по ее установке
 
-:link:[ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/1С_УТ.pdf)
+:link:[Ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/1С_УТ.pdf)
 
 2. Анализ архитектуры АИС управления предприятием и составление руководства по установке клиентского места
 
-:link:[ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Руководство%20по%20АИС%20компании.pdf)
+:link:[Ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Руководство%20по%20АИС%20компании.pdf)
 
 3. Создание telegram-бота на основе сайта компании-партнера «Галактика» с использованием языка программирования python и развертыванием на платформе Railway
 
-:link:[ссылка на выполненное задание](https://github.com/MelnikNO/tgbotGALAXYpractice3)
+:link:[Ссылка на выполненное задание](https://github.com/MelnikNO/tgbotGALAXYpractice3)
 
 4. Построить модели бизнес-процессов деятельности компании с помощью методологии ARIS
 
-:link:[ссылка на выполненное задание](https://github.com/BlohinaValeria/Practice-3-course/blob/main/Моделирование%20ARIS.pdf)
+:link:[Ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Моделирование%20ARIS.pdf)
