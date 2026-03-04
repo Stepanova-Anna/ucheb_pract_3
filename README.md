@@ -7,12 +7,12 @@
 - **Период практики:** 02.02.26 — 05.03.26
 ## Характеристика
 
-:page_facing_up:[перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Характеристика%20Степанова.pdf)
+:page_facing_up:[Перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Характеристика%20Степанова.pdf)
 
 ## Задания 
 1. Изучить складскую систему на базе «1С:Управление торговлей» и разработать руководство по ее установке
 
-:link:[ссылка на выполненное задание](https://github.com/BlohinaValeria/Practice-3-course/blob/main/1С_УТ.pdf)
+:link:[ссылка на выполненное задание](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/1С_УТ.pdf)
 
 2. Анализ архитектуры АИС управления предприятием и составление руководства по установке клиентского места
 
