@@ -7,7 +7,7 @@
 - **Период практики:** 02.02.26 — 05.03.26
 ## Характеристика
 
-:page_facing_up:[перейти](https://github.com/BlohinaValeria/Practice-3-course/blob/main/Характеристика%20Блохина.pdf)
+:page_facing_up:[перейти](https://github.com/Stepanova-Anna/ucheb_pract_3/blob/main/Характеристика%20Степанова.pdf)
 
 ## Задания 
 1. Изучить складскую систему на базе «1С:Управление торговлей» и разработать руководство по ее установке
